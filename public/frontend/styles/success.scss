@@ -1,0 +1,26 @@
+.section-success {
+    height: 90vh;
+
+    h1 {
+        font-weight: 600;
+        font-size: 26px;
+        color: #051334;
+    }
+
+    p {
+        font-weight: 500;
+        font-size: 18px;
+        columns: #b1b1b1;
+    }
+
+    .btn-homepage {
+        border-radius: 4px;
+        background-color: #051334;
+        color: #fff;
+
+        &:hover {
+            background-color: #18316d;
+            color: #fff;
+        }
+    }
+}

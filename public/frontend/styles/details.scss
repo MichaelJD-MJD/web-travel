@@ -1,0 +1,134 @@
+.section-details-header {
+  min-height: 310px;
+  background-color: #e4e6eb;
+  margin-top: -70px;
+}
+
+.section-details-content {
+  margin-top: -210px;
+  min-height: 100vh;
+
+  .breadcrumb {
+    background-color: transparent;
+    padding: 0;
+    margin-bottom: 30px;
+  }
+
+  .breadcrumb-item {
+    &.active {
+      font-weight: bold;
+      color: #041850;
+    }
+  }
+
+
+.card-details {
+  padding: 30px;
+  border-radius: 11px;
+
+  .trip-informations {
+    th {
+      font-weight: 300;
+      font-size: 18px;
+      color: #041850;
+    }
+
+    td {
+      font-weight: 300;
+      font-size: 18px;
+      color: #b1b1b1;
+    }
+
+  }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 18px;
+    color: #b1b1b1;
+  }
+
+  
+}
+
+.card-right {
+  border-bottom-left-radius: 0 ;
+  border-bottom-right-radius: 0 ;
+  border-bottom: 0;
+}
+
+.gallery {
+    .xzoom-container {
+      display: block;
+
+      .xzoom {
+        width: 100%;
+        box-shadow: none;
+        margin-bottom: 10px;
+      }
+
+      .xactive {
+        border: 2px solid #1abc9c;
+        box-shadow: none;
+      }
+    }
+  }
+
+  .features {
+    margin-top: 20px;
+
+    h3 {
+      font-size: 18px;
+      color: #041850;
+      margin-bottom: 0;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+
+    .description {
+      margin-left: 10px;
+      overflow: hidden;
+      float: left;
+    }
+
+    .features-image {
+      width: 45px;
+      height: 45px;
+      float: left;
+    }
+  }
+
+   .join-container {
+    margin-top: -16px;
+  }
+
+  .btn-join-now {
+    background-color: #ff9e53;
+    color: #fff;
+    border-radius: 0;
+
+    &:hover {
+      background-color: #ffba85;
+      color: #fff;
+      border-radius: 0;
+    }
+  }
+
+  .member{
+    .member-image {
+      width: 40px;
+      height: 40px;
+    }
+  }
+}
+ 
+
+

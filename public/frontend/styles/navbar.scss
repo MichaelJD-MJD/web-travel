@@ -1,0 +1,38 @@
+// Navbar
+.navbar-brand {
+  img {
+    max-height: 40px;
+  }
+}
+
+.navbar-light {
+  .navbar-nav {
+    .nav-link {
+      color: #041850;
+
+      &.active {
+        font-weight: bold;
+        color: #041850 !important;
+      }
+    }
+  }
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+
+  height: 70px;
+  border-radius: 0;
+}
+
+.btn-login {
+  background-color: #041850;
+  color: #ffffff;
+
+  &:hover {
+    background-color: #112c75;
+    color: #ffffff;
+  }
+}

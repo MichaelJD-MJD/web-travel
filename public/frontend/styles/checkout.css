@@ -1,0 +1,165 @@
+.section-details-header {
+  min-height: 310px;
+  background-color: #e4e6eb;
+  margin-top: -70px;
+}
+
+.section-details-content {
+  margin-top: -210px;
+  min-height: 100vh;
+}
+.section-details-content .breadcrumb {
+  background-color: transparent;
+  padding: 0;
+  margin-bottom: 30px;
+}
+.section-details-content .breadcrumb-item.active {
+  font-weight: bold;
+  color: #041850;
+}
+
+.card-details {
+  padding: 30px;
+  border-radius: 11px;
+}
+.card-details h1 {
+  font-size: 26px;
+}
+.card-details h2 {
+  font-size: 20px;
+}
+.card-details p {
+  font-size: 18px;
+  color: #b1b1b1;
+}
+.card-details h3 {
+  font-weight: 300;
+  font-size: 16px;
+  color: #041850;
+}
+.card-details .trip-informations th {
+  font-weight: 300;
+  font-size: 18px;
+  color: #041850;
+}
+.card-details .trip-informations td {
+  font-weight: 300;
+  font-size: 18px;
+  color: #b1b1b1;
+}
+.card-details .trip-informations .text-blue {
+  color: #041850;
+  font-weight: bold;
+}
+.card-details .trip-informations .text-orange {
+  color: #ff9e53;
+  font-weight: bold;
+}
+.card-details .payment-instructions {
+  font-weight: 300;
+  font-size: 14px;
+  color: #b1b1b1;
+}
+.card-details .bank .bank-item h3 {
+  font-size: 18px;
+  color: #041850;
+  margin-bottom: 0;
+}
+.card-details .bank .bank-item p {
+  margin-bottom: 0;
+}
+.card-details .bank .bank-item .description {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+}
+.card-details .bank .bank-item .description p {
+  font-weight: normal;
+  font-size: 16px;
+  color: #041850;
+}
+.card-details .bank .bank-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+.card-details .disclaimer {
+  font-weight: 300;
+  font-size: 14px;
+  color: #b1b1b1;
+}
+.card-details .gj-datepicker .datepicker {
+  border-right: 0;
+}
+.card-details .gj-datepicker .btn {
+  padding-right: 30px;
+}
+.card-details .btn-add-now {
+  background-color: #041850;
+  color: #fff;
+}
+.card-details .btn-add-now:hover {
+  background-color: #0b297e;
+  color: #fff;
+}
+
+.card-right {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: 0;
+}
+
+.features {
+  margin-top: 20px;
+}
+.features h3 {
+  font-size: 18px;
+  color: #041850;
+  margin-bottom: 0;
+}
+.features p {
+  margin-bottom: 0;
+}
+.features .description {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+}
+.features .features-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.gallery .xzoom-container {
+  display: block;
+}
+.gallery .xzoom-container .xzoom {
+  width: 100%;
+  box-shadow: none;
+  margin-bottom: 10px;
+}
+.gallery .xzoom-container .xactive {
+  border: 2px solid #1abc9c;
+  box-shadow: none;
+}
+
+.member .member-image {
+  width: 40px;
+  height: 40px;
+}
+
+.join-container {
+  margin-top: -16px;
+}
+
+.btn-join-now {
+  background-color: #ff9e53;
+  color: #fff;
+  border-radius: 0;
+}
+.btn-join-now:hover {
+  background-color: #ffba85;
+  color: #fff;
+  border-radius: 0;
+}/*# sourceMappingURL=checkout.css.map */

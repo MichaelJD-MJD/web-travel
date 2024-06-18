@@ -1,0 +1,23 @@
+.section-success {
+  height: 90vh;
+}
+.section-success h1 {
+  font-weight: 600;
+  font-size: 26px;
+  color: #051334;
+}
+.section-success p {
+  font-weight: 500;
+  font-size: 18px;
+  -moz-columns: #b1b1b1;
+       columns: #b1b1b1;
+}
+.section-success .btn-homepage {
+  border-radius: 4px;
+  background-color: #051334;
+  color: #fff;
+}
+.section-success .btn-homepage:hover {
+  background-color: #18316d;
+  color: #fff;
+}/*# sourceMappingURL=success.css.map */
